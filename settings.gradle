@@ -1,0 +1,3 @@
+rootProject.name = "Tagger Library"
+include ':app'
+include ':audiotagger'
